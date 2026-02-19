@@ -23,7 +23,7 @@ I am an AI and Machine Learning-focused Computer Science undergraduate with stro
 src="https://img.shields.io/github/followers/ash-iiiiish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ash-iiiiish"><img src="https://github-readme-stats.vercel.app/api?username=ash-iiiiish&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ash-iiiiish's GitHub stats" /></a>
 
@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/ash-iiiiish?logo=github&style=for-t
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/ash-iiiiish/30-Machine-Learning-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ash-iiiiish&repo=30-Machine-Learning-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/ash-iiiiish/30-Machine-Learning-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ash-iiiiish&repo=30-Machine-Learning-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div> -->
 
 ### Support Me
 
