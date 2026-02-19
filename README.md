@@ -4,13 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h1 align="left">
   AI / ML Engineer
   <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=ash-iiiiish&label=Visitors&style=for-the-badge&color=0891b2" 
+    src="https://Visitor-badge.laobi.icu/badge?page_id=ash-iiiiish&label=Visitors&style=for-the-badge&color=0891b2" 
     align="right" 
   />
 </h1>
-                                        
-----------------
-
 
 I am an AI and Machine Learning-focused Computer Science undergraduate with strong hands-on experience in building end-to-end ML systems, RAG-based AI assistants, NLP chatbots, and computer vision applications.
 
