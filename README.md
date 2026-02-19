@@ -1,7 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ashish Kumar
 =====================================================================================================================================
 
-AI / ML Engineer                                              <img src="https://visitor-badge.laobi.icu/badge?page_id=ash-iiiiish&style=for-the-badge&color=0891b2" />
+<h1 align="left">
+  AI / ML Engineer
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=ash-iiiiish&label=Visitors&style=for-the-badge&color=0891b2" 
+    align="right" 
+  />
+</h1>
+                                        
 ----------------
 
 
