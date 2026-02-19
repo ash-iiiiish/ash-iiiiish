@@ -14,15 +14,11 @@
 🌱 I’m currently learning Agentic AI
 💬 Ask me about AI & ML
 ⚡ Fun fact Wohhh ! Enjoy every commit -->
-
+<center>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ash.iiiiish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ash-iiiiish) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ash-iiiiish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarashisha54@gmail.com) 
+</center>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ash-iiiiish&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ash-iiiiish&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-iiiiish&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ash-iiiiish&icon=0&color=0)](https://visitcount.itsvg.in)
