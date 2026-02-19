@@ -30,6 +30,7 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔭 I’m currently working on AI & ML (GenAI)
 👯 I’m looking to collaborate on GenAI projects
 🤝 I’m looking for help with AI automations
 🌱 I’m currently learning Agentic AI
