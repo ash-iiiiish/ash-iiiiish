@@ -180,6 +180,8 @@ I'm a **Computer Science undergraduate** specializing in **AI & Machine Learning
 ---
 
 -->
+
+<center>
 ## 🚀 Featured Projects
 
 <div align="center"><a href="https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ash-iiiiish&repo=ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="45%" /></a>&nbsp;&nbsp;<a href="https://github.com/ash-iiiiish/VIGIl.AI-Violence-WeaponDetectionTool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ash-iiiiish&repo=VIGIl.AI-Violence-WeaponDetectionTool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="45%" /></a></div>
@@ -199,3 +201,4 @@ I'm a **Computer Science undergraduate** specializing in **AI & Machine Learning
 ---
 
 <div align="center"><i>⭐ Star my repos if you find them useful — it motivates me to build more!</i></div>
+</center>
