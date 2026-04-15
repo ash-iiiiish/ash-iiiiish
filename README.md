@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />&nbsp;<h1>Hey there, I'm Ashish Kumar</h1>
 
-<h3>🤖 AI / ML Engineer &nbsp;|&nbsp; 🧠 GenAI Builder &nbsp;|&nbsp; 🇮🇳 Based in India</h3>
+<h3>🤖 AI / ML Engineer &nbsp;|&nbsp; 🧠 GenAI Builder &nbsp;|&nbsp; Based in India</h3>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ash-iiiiish&label=Profile%20Views&style=for-the-badge&color=0891b2" />
 
