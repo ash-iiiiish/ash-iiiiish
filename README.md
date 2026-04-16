@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />&nbsp;<h1>Hey there, I'm Ashish Kumar</h1>
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px" /> &nbsp;**Hi, I'm Ashish Kumar**
 
-<h3>🤖 AI / ML Engineer &nbsp;|&nbsp; 🧠 GenAI Builder &nbsp;|&nbsp; Based in India</h3>
+**AI / ML Engineer · GenAI Builder · India**
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ash-iiiiish&label=Profile%20Views&style=for-the-badge&color=0891b2" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ash--iiiiish-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ash-iiiiish)
+[![GitHub](https://img.shields.io/badge/GitHub-ash--iiiiish-181717?style=flat&logo=github&logoColor=white)](https://www.github.com/ash-iiiiish)
+[![Twitter](https://img.shields.io/badge/Twitter-ash__iiiiish-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.x.com/ash_iiiiish)
+[![Mail](https://img.shields.io/badge/Email-kumarashisha54@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kumarashisha54@gmail.com)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ash-iiiiish&label=Profile%20Views&style=flat&color=0891b2)](https://github.com/ash-iiiiish)
 
 </div>
 
@@ -12,167 +16,92 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science undergraduate** specializing in **AI & Machine Learning**, with hands-on experience building production-ready intelligent systems.
+CS undergrad (B.Tech, 2nd year) specializing in **AI & Machine Learning** — I build production-ready intelligent systems from scratch.
 
-- 🔭 &nbsp;Currently working on **GenAI & Automation Applications**
-- 🧠 &nbsp;Deep diving into **LLMs, RAG pipelines & Agentic AI**
-- 🛠️ &nbsp;Building **end-to-end ML systems**, NLP chatbots & computer vision apps
-- 👥 &nbsp;Open to **collaborating on AI/ML open source projects**
-- 📬 &nbsp;Reach me at **[kumarashisha54@gmail.com](mailto:kumarashisha54@gmail.com)**
-
----
-
-## 💻 Languages
-
-<table border="0" cellspacing="0" cellpadding="12">
-  <tr>
-    <td align="center" width="110">
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42" alt="Python" /><br/>
-        <sub><b>Python</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="42" height="42" alt="C" /><br/>
-        <sub><b>C</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="42" height="42" alt="C++" /><br/>
-        <sub><b>C++</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" alt="JavaScript" /><br/>
-        <sub><b>JavaScript</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="42" height="42" alt="Java" /><br/>
-        <sub><b>Java</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5" /><br/>
-        <sub><b>HTML5</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" height="42" alt="CSS3" /><br/>
-        <sub><b>CSS3</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+- 🔭 &nbsp;Shipped two deep learning systems at **98–99% accuracy** and a full **multimodal RAG pipeline**
+- 🧠 &nbsp;Currently deep in **LLMs, Agentic AI & RAG architectures**
+- 🛠️ &nbsp;Passionate about end-to-end ML — from dataset curation to deployment
+- 👥 &nbsp;Open to collaborating on **AI/ML open source projects**
 
 ---
 
-## 🧠 AI / ML & Frameworks
+## 🛠️ Tech Stack
 
-<table border="0" cellspacing="0" cellpadding="12">
-  <tr>
-    <td align="center" width="110">
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="42" height="42" alt="PyTorch" /><br/>
-        <sub><b>PyTorch</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" width="42" height="42" alt="Hugging Face" /><br/>
-        <sub><b>Hugging Face</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="42" height="42" alt="FastAPI" /><br/>
-        <sub><b>FastAPI</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="42" height="42" alt="Flask" /><br/>
-        <sub><b>Flask</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 🗄️ Databases, DevOps & Tools
+**AI / ML & GenAI**
 
-<table border="0" cellspacing="0" cellpadding="12">
-  <tr>
-    <td align="center" width="110">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="42" height="42" alt="MySQL" /><br/>
-        <sub><b>MySQL</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" height="42" alt="PostgreSQL" /><br/>
-        <sub><b>PostgreSQL</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="42" height="42" alt="Docker" /><br/>
-        <sub><b>Docker</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://render.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="42" height="42" alt="Render" /><br/>
-        <sub><b>Render</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="42" height="42" alt="VS Code" /><br/>
-        <sub><b>VS Code</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-F68B29?style=flat&logoColor=white)
+
+**Vector DBs & Embeddings**
+
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat&logoColor=white)
+
+**Databases & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🛍️ [ShopLens.AI — Multimodal RAG E-Commerce Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant)
+> Eliminated manual product cataloguing with an image-to-text pipeline (vision model → FAISS embeddings) that auto-generates searchable product descriptions. Replaced keyword search with **natural-language product discovery** across a multimodal vector store. Delivered a fully deployed Streamlit app with zero friction for non-technical users.
 
-<a href="https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ash-iiiiish&repo=ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="45%" /></a>&nbsp;&nbsp;<a href="https://github.com/ash-iiiiish/VIGIl.AI-Violence-WeaponDetectionTool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ash-iiiiish&repo=VIGIl.AI-Violence-WeaponDetectionTool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="45%" /></a>
-
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-<a href="https://www.github.com/ash-iiiiish" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ash-iiiiish" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;<a href="https://www.x.com/ash_iiiiish" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter / X" /></picture></a>&nbsp;&nbsp;<a href="https://discord.com/users/ash_iiiiish" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></picture></a>
-
-</div>
+`RAG` `FAISS` `Multimodal` `LangChain` `Streamlit`
 
 ---
 
-## ☕ Support My Work
+### 🔫 [VIGIL.AI — Violence & Weapon Detection for CCTV](https://github.com/ash-iiiiish/VIGIl.AI-Violence-WeaponDetectionTool)
+> Achieved **99% weapon-detection accuracy** (guns, knives) on custom CCTV datasets using YOLOv8 with targeted data augmentation. Fine-tuned an RS3D spatiotemporal model for **83% violence-classification accuracy**, outperforming baseline. Built a real-time dual-model inference pipeline with OpenCV + ffmpeg for live frame-level threat flagging.
 
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/129Ashish"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" /></a>
-
-</div>
+`YOLOv8` `RS3D` `OpenCV` `Real-time Inference` `Streamlit`
 
 ---
 
-<div align="center"><i>⭐ Star my repos if you find them useful — it motivates me to build more!</i></div>
+### 💬 Unified Q&A Chatbot (Groq & Ollama) with Memory
+> Cut cloud API token consumption by routing latency-tolerant queries to local **Ollama models** via a hot-swap routing layer. Maintained coherent multi-turn context via a trimmed message-history strategy. Supports **zero-dependency local inference** — fully functional without internet or API access.
+
+`Groq` `Ollama` `LLMs` `Context Management` `LangChain`
+
+---
+
+### 📊 30 Machine Learning Projects
+> Comprehensive ML portfolio spanning **7 paradigms** — classification, regression, clustering, NLP, time-series, association-rule mining, and anomaly detection. Achieved up to **95% accuracy** via XGBoost hyperparameter tuning, beating Random Forest baselines by ~6 percentage points.
+
+`XGBoost` `Scikit-learn` `NLP` `EDA` `Deployment Pipelines`
+
+---
+
+<div align="center">
+
+*⭐ Star my repos if you find them useful — it motivates me to build more!*
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/129Ashish)
+
+</div>
