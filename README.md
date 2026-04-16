@@ -84,20 +84,6 @@ CS undergrad (B.Tech, 2nd year) specializing in **AI & Machine Learning** — I 
 
 ---
 
-### 💬 Unified Q&A Chatbot (Groq & Ollama) with Memory
-> Cut cloud API token consumption by routing latency-tolerant queries to local **Ollama models** via a hot-swap routing layer. Maintained coherent multi-turn context via a trimmed message-history strategy. Supports **zero-dependency local inference** — fully functional without internet or API access.
-
-`Groq` `Ollama` `LLMs` `Context Management` `LangChain`
-
----
-
-### 📊 30 Machine Learning Projects
-> Comprehensive ML portfolio spanning **7 paradigms** — classification, regression, clustering, NLP, time-series, association-rule mining, and anomaly detection. Achieved up to **95% accuracy** via XGBoost hyperparameter tuning, beating Random Forest baselines by ~6 percentage points.
-
-`XGBoost` `Scikit-learn` `NLP` `EDA` `Deployment Pipelines`
-
----
-
 <div align="center">
 
 *⭐ Star my repos if you find them useful — it motivates me to build more!*
