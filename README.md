@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-CS undergrad (B.Tech, 3rd year) specializing in **AI & Machine Learning** — I build production-ready intelligent systems from scratch.
+CS undergrad (B.Tech, 4th year) specializing in **AI & Machine Learning** — I build production-ready intelligent systems from scratch.
 
 - 🔭 &nbsp;Shipped two deep learning systems at **98–99% accuracy** and a full **multimodal RAG pipeline**
 - 🧠 &nbsp;Currently deep in **LLMs, Agentic AI & RAG architectures**
