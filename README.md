@@ -71,7 +71,7 @@ CS undergrad (B.Tech, 4th year) specializing in **AI & Machine Learning** — I 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 ### 🛍️ [ShopLens.AI — Multimodal RAG E-Commerce Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant)
@@ -91,6 +91,7 @@ CS undergrad (B.Tech, 4th year) specializing in **AI & Machine Learning** — I 
 <div align="center">
 
 *⭐ Star my repos if you find them useful — it motivates me to build more!*
+-->
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/129Ashish)
 
