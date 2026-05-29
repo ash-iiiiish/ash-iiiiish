@@ -92,7 +92,7 @@ CS undergrad (B.Tech, 4th year) specializing in **AI & Machine Learning** — I 
 
 *⭐ Star my repos if you find them useful — it motivates me to build more!*
 -->
-<div align="center">
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/129Ashish)
 
 </div>
