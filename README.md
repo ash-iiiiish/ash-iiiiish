@@ -11,7 +11,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ash--iiiiish-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ash-iiiiish)
 [![GitHub](https://img.shields.io/badge/GitHub-ash--iiiiish-181717?style=flat&logo=github&logoColor=white)](https://www.github.com/ash-iiiiish)
-[![Twitter](https://img.shields.io/badge/Twitter-ash__iiiiish-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.x.com/ash_iiiiish)
 [![Mail](https://img.shields.io/badge/Email-kumarashisha54@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kumarashisha54@gmail.com)
 
 </div>
