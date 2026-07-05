@@ -87,26 +87,13 @@ Final-year CS undergrad (B.Tech) building **LLM-powered agentic systems, RAG pip
 
 ## 🚀 Featured Projects
 
-### 🧠 Enterprise AI Knowledge Copilot
+### 🧠 [Enterprise AI Knowledge Copilot](https://github.com/ash-iiiiish/Enterprise-Knowledge-Copilot)
 > Engineered an LLM-powered enterprise copilot using **LangGraph**, integrating RAG with **MCP-based tools** for ticketing, employee lookup, policy retrieval, and internal knowledge search. Implemented a **Self-RAG/CRAG verification pipeline** to reduce hallucinations by grounding responses in retrieved context and tool outputs. Designed an asynchronous multi-tool backend (**FastMCP + PostgreSQL**) enabling concurrent tool execution at scale.
 
 `LangGraph` `LangChain` `FastMCP` `PostgreSQL (pgvector)` `Groq` `Ollama` `Asyncio` `LangSmith`
 
 ---
 
-### 🛍️ [ShopLens.AI — Multimodal RAG E-Commerce Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant)
-> Built a multimodal AI assistant combining vision-language models with RAG to process product images and natural language queries. Automated image-to-text generation to create searchable product metadata, eliminating manual cataloguing and improving retrieval efficiency.
-
-`RAG` `Vision-Language Models` `FAISS` `LangChain` `LangSmith` `Streamlit`
-
----
-
-### 🔫 [VIGIL.AI — Violence & Weapon Detection for CCTV](https://github.com/ash-iiiiish/VIGIl.AI-Violence-WeaponDetectionTool)
-> Achieved **99% weapon-detection accuracy** on custom CCTV datasets by training and optimizing YOLOv8 with targeted augmentation and hyperparameter tuning. Fine-tuned an RS3D spatiotemporal model for violence detection on surveillance footage. Built a real-time dual-model inference pipeline with OpenCV + FFmpeg for live frame-level threat flagging.
-
-`YOLOv8` `RS3D` `OpenCV` `FFmpeg` `Real-time Inference` `Streamlit`
-
----
 
 <div align="center">
 
