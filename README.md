@@ -26,15 +26,7 @@ Final-year CS undergrad (B.Tech) building **LLM-powered agentic systems, RAG pip
 - 🛠️ &nbsp;Ex Machine Learning Intern (Team Lead) — production computer vision workflows with YOLOv8 & OpenCV
 - 👥 &nbsp;Open to collaborating on **AI/ML, GenAI & agentic open-source projects**
 
----
-
-## 💼 Experience
-
-**Machine Learning Intern — Team Lead** · *Intakeoff (Remote)* · Apr 2026 – Jun 2026
-- Trained & optimized real-time computer vision workflows using OpenCV and YOLOv8 for object detection and image classification on custom datasets
-- Engineered end-to-end inference architectures — frame preprocessing, model inference, and post-processing — for production deployment
-
----
+-----
 
 ## 🛠️ Tech Stack
 
