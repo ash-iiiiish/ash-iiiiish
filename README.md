@@ -77,15 +77,6 @@ Final-year CS undergrad (B.Tech) building **LLM-powered agentic systems, RAG pip
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 [Enterprise AI Knowledge Copilot](https://github.com/ash-iiiiish/Enterprise-Knowledge-Copilot)
-> Engineered an LLM-powered enterprise copilot using **LangGraph**, integrating RAG with **MCP-based tools** for ticketing, employee lookup, policy retrieval, and internal knowledge search. Implemented a **Self-RAG/CRAG verification pipeline** to reduce hallucinations by grounding responses in retrieved context and tool outputs. Designed an asynchronous multi-tool backend (**FastMCP + PostgreSQL**) enabling concurrent tool execution at scale.
-
-`LangGraph` `LangChain` `FastMCP` `PostgreSQL (pgvector)` `Groq` `Ollama` `Asyncio` `LangSmith`
-
----
-
 
 <div align="center">
 
