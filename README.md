@@ -1,6 +1,6 @@
 <div align="right">
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ash-iiiiish&label=Profile%20Views&style=flat&color=0891b2)](https://github.com/ash-iiiiish)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ash-iiiiish.profile-v2&label=Profile%20Views&style=flat&color=0891b2)](https://github.com/ash-iiiiish)
 
 </div>
 
