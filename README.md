@@ -1,8 +1,4 @@
-<div align="right">
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ash-iiiiish&label=Profile%20Views&style=flat&color=0891b2)](https://github.com/ash-iiiiish)
-
-</div>
 
 <div align="center">
 
