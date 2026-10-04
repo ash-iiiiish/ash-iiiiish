@@ -7,7 +7,7 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px" /> &nbsp;**Hi, I'm Ashish Kumar**
-**AI/ML Engineer · GenAI & Agentic Systems Builder · India**
+**AI/ML Engineer · GenAI & Agentic Systems Builder· India**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ash--iiiiish-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ash-iiiiish)
 [![GitHub](https://img.shields.io/badge/GitHub-ash--iiiiish-181717?style=flat&logo=github&logoColor=white)](https://www.github.com/ash-iiiiish)
