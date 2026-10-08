@@ -86,17 +86,6 @@ Currently building AI-powered products and agentic workflows through remote star
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
----
-
-## `$ git log --oneline --interests`
-
-```text
-Building       Agentic AI and multi-step workflows
-Exploring      Advanced RAG and retrieval evaluation
-Engineering    Python APIs and AI backend services
-Researching    Reliability of tool-using LLM systems
-Learning       Better evaluation, observability, and deployment
-````
 
 ---
 
