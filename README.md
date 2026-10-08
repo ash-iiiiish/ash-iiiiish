@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # Ashish Kumar
@@ -128,86 +128,5 @@ An ongoing initiative to make government funding and startup schemes easier to d
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
 
-### Backend & Data Infrastructure
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Engineering & Deployment
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-
----
-
-## `$ git log --oneline --interests`
-
-```text
-Building       Agentic AI and multi-step workflows
-Exploring      Advanced RAG and retrieval evaluation
-Engineering    Python APIs and AI backend services
-Researching    Reliability of tool-using LLM systems
-Learning       Better evaluation, observability, and deployment
-````
-
----
-
-## `$ git status`
-
-* 🔭 **Currently working on:** Agentic AI, enterprise knowledge retrieval, and AI-powered backend services.
-* 🌱 **Currently learning:** Better evaluation strategies, reliable agent orchestration, and production AI engineering.
-* 🤝 **Open to:** AI/ML engineering opportunities, GenAI internships, research collaborations, and meaningful open-source projects.
-* 💬 **Let's discuss:** RAG architecture, LangGraph, MCP, AI agents, computer vision, and Python backend engineering.
-
----
-
-<div align="center">
-
-### Have an interesting AI problem?
-
-**Let's build something useful.**
-
-<a href="https://www.linkedin.com/in/ash-iiiiish/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-</a>
-<a href="mailto:kumarashisha54@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email">
-</a>
-
-<br><br>
-
-<sub>Designed around building, evaluating, and improving real-world AI systems.</sub>
-
-</div>
-```
-
-## Three things that would make your profile even stronger
-
-**1. Pin your best repositories in this order**
-
-1. Enterprise Knowledge Copilot — your strongest demonstration of agentic AI and enterprise RAG.
-2. ShopLens AI — shows multimodal AI and semantic retrieval.
-3. VIGIL.ai — demonstrates applied machine learning and computer vision.
-4. Your government-scheme RAG project, once its public repository is ready.
-
-**2. Add real engineering metrics when you have them**
-
-For example, your Enterprise Copilot would benefit from a documented evaluation set, retrieval-quality results, and tool-execution success rates. Avoid claiming improvements until you've measured them.
-
-**3. Keep the profile consistent with your resume**
-
-Your profile should reinforce the same professional identity: **AI/ML Engineer focused on GenAI, agentic systems, and backend engineering.** This gives recruiters a coherent story across your GitHub, resume, LinkedIn, and portfolio.
-
-One final recommendation: I would **not** add generic GitHub contribution graphs or a large collection of animated widgets yet. Your strongest differentiator is the technical substance of your projects, so the profile should make those projects the centerpiece.
