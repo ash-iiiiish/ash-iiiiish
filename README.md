@@ -38,11 +38,6 @@ I enjoy building beyond the chatbot layer: systems that retrieve knowledge, call
 - 🔌 **AI Tooling:** Model Context Protocol (MCP), FastMCP, and tool-integrated applications.
 - ⚙️ **Backend Engineering:** Python, FastAPI, Django REST Framework, PostgreSQL, and asynchronous workflows.
 - 👁️ **Applied ML:** Computer vision, YOLOv8, OpenCV, and multimodal retrieval.
-- 🧪 **Research Interests:** Agent evaluation, retrieval quality, reliability, and efficient LLM systems.
-
-Currently building AI-powered products and agentic workflows through remote startup internships.
-
-> **My engineering philosophy:** A working demo is the beginning. Reliable retrieval, measurable performance, and useful system behavior are what make it an engineering project.
 
 ---
 
