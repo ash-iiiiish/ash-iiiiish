@@ -15,10 +15,10 @@
   </a>
   <a href="mailto:kumarashisha54@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <!-- </a>
   <a href="https://ash-iiiiish.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
+  </a> -->
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ash-iiiiish&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views">
